@@ -1,15 +1,15 @@
 [
    {
       "id": "Creating route {{.Hostname}}...",
-      "translation": "Creating route {{.Hostname}}..."
+      "translation": "Создаем маршрут {{.Hostname}}..."
    },
    {
       "id": "Binding {{.URL}} to {{.AppName}}...",
-      "translation": "Binding {{.URL}} to {{.AppName}}..."
+      "translation": "Привязка {{.URL}} к {{.AppName}}..."
    },
    {
       "id": "The route {{.URL}} is already in use.\nTIP: Change the hostname with -n HOSTNAME or use --random-route to generate a new route and then push again.",
-      "translation": "The route {{.URL}} is already in use.\nTIP: Change the hostname with -n HOSTNAME or use --random-route to generate a new route and then push again."
+      "translation": "Маршрут {{.URL}} уже использован.\nTIP: Поменяйте имя хоста с -n HOSTNAME или используйте --random-route чтобы сгенерировать новый маршрут и тогда push again."
    },
    {
       "id": "Removing route {{.URL}}...",
